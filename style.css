@@ -1,0 +1,25 @@
+body
+{
+    background: url('background.jpg') no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo
+{
+    position: relative;
+    max-width: 50%;
+    max-height: 50%;
+    top: 0px;
+}
+
+
+
